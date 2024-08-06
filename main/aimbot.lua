@@ -1,3 +1,5 @@
+-- // modified for aimkey support.
+
 local Camera = workspace.CurrentCamera
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
