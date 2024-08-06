@@ -3,6 +3,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Blissful4992/ESPs/mai
 
 -- // Aimbot Settings //
 _G.AimbotEnabled = true
+_G.AimKey = Enum.UserInputType.MouseButton2
 _G.TeamCheck = true -- If set to true then the script would only lock your aim at enemy team members.
 _G.AimPart = "Head" -- Where the aimbot script would lock at.
 _G.Sensitivity = 0 -- How many seconds it takes for the aimbot script to officially lock onto the target's aimpart.
