@@ -1,6 +1,6 @@
 # AimESP
 ## Credits
-- [@Exunys](https://github.com/Exuny) Aimbot
+- [@Exunys](https://github.com/Exunys) Aimbot
 - [@Blissful4992](https://github.com/Blissful4992) ESP
 
 ## Script
