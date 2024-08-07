@@ -1,8 +1,8 @@
 # AimESP
 A Unviersal Aimbot and ESP.
 ## Credits
-- [@Exunys](https://github.com/Exunys) Aimbot
-- [@Blissful4992](https://github.com/Blissful4992) ESP
+- [@Exunys](https://github.com/Exunys) For [Aimbot](https://github.com/Exunys/Aimbot-Script)
+- [@Blissful4992](https://github.com/Blissful4992) For [ESP](https://github.com/Blissful4992/ESPs)
 
 ## Script
 ```lua
