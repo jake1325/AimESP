@@ -20,5 +20,5 @@ _G.CircleThickness = 0 -- The thickness of the circle.
 ```
 
 # Checked Games
-[✅] Arsenal
-[❌] Phantom Forces
+## ✅ Arsenal
+## ❌ Arsenal
