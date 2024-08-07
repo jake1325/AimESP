@@ -18,3 +18,7 @@ _G.CircleFilled = false -- Determines whether or not the circle is filled.
 _G.CircleVisible = true -- Determines whether or not the circle is visible.
 _G.CircleThickness = 0 -- The thickness of the circle.
 ```
+
+# Checked Games
+✅ Arsenal
+❌ Phantom Forces
