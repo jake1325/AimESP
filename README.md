@@ -1,5 +1,9 @@
 # AimESP
-The script uses Unviersal Aimbot from https://github.com/Exunys/Aimbot-Script and ESP From https://github.com/Blissful4992/ESPs
+## Credits
+- [@Exunys](https://github.com/Exuny) Aimbot
+- [@Blissful4992](https://github.com/Blissful4992) ESP
+
+## Script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jake1325/AimESP/main/main/loader.lua"))()
 
@@ -18,7 +22,3 @@ _G.CircleFilled = false -- Determines whether or not the circle is filled.
 _G.CircleVisible = true -- Determines whether or not the circle is visible.
 _G.CircleThickness = 0 -- The thickness of the circle.
 ```
-
-# Checked Games
-#### ✅ Arsenal
-#### ❌ Arsenal
