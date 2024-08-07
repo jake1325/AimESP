@@ -1,6 +1,8 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-Script/main/Aimbot%20Script.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Blissful4992/ESPs/main/2D%20Box%20ESP/ESP.lua"))()
 
+-- Default Settings for Aimbot
+
 -- // Aimbot Settings //
 _G.AimbotEnabled = true
 _G.TeamCheck = true -- If set to true then the script would only lock your aim at enemy team members.
